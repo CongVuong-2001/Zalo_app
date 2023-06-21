@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Long1",
+      "phone": "1",
+      "cccd": "1",
+      "acreage": "1",
+      "email": "1@gmail.com",
+      "group": "HTX A",
+      "address": "1"
+    },
+    {
+      "id": "5",
+      "name": "Minh",
+      "phone": "0965236633",
+      "cccd": "2301230121",
+      "acreage": "2.0",
+      "group": "HTX A"
+    },
+    {
+      "id": "6",
+      "name": "Lâm",
+      "phone": "0965123443",
+      "cccd": "2301230121",
+      "acreage": "1.4",
+      "group": "HTX B"
+    },
+    {
+      "name": "Vu",
+      "cccd": "",
+      "acreage": "2",
+      "email": "vuong@gmail.com",
+      "phone": "09591283",
+      "address": "",
+      "startDate": "2023-04-25",
+      "endDate": "2023-04-27",
+      "id": "iDdDsw-"
+    }
+  ],
+  "groups": [
+    {
+      "name": "HTX B",
+      "type": "HTX",
+      "mst": "123",
+      "address": "24B",
+      "level": "Trưởng Phòng",
+      "email": "mane@gmail.com",
+      "phone": "0355991133",
+      "username": "Lê Hoài Ân",
+      "productID": "X001",
+      "productName": "Xoài xấy dẻo",
+      "acreage": "6",
+      "amount": "22",
+      "id": "1gUc6Eg",
+      "group": "Thực Phẩm Đông Lạnh"
+    },
+    {
+      "name": "HTX D",
+      "type": "",
+      "mst": "2.1",
+      "address": "",
+      "level": "",
+      "email": "",
+      "phone": "",
+      "username": "",
+      "productID": "",
+      "productName": "",
+      "acreage": "7",
+      "amount": "11",
+      "group": "",
+      "region": "",
+      "id": "fhaNytH"
+    },
+    {
+      "name": "HTX E",
+      "type": "",
+      "mst": "",
+      "address": "",
+      "level": "",
+      "email": "",
+      "phone": "",
+      "username": "",
+      "productID": "",
+      "productName": "",
+      "acreage": "8",
+      "amount": "",
+      "group": "",
+      "region": "",
+      "id": "rbzwaaC"
+    }
+  ]
+}
